@@ -22,4 +22,9 @@ void main(List<String> args) {
   print("tarek");
   print("samy");
   print("mohamed");
+  print("ahmed");
+  print("amir");
+  print("omar");
+  print("tarek");
+
 }
