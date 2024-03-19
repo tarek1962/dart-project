@@ -26,5 +26,14 @@ void main(List<String> args) {
   print("amir");
   print("omar");
   print("tarek");
+  print("amir");
+  print("amir");
+  print("amir");
+  print("amir");
+  print("amir");
+  print("amir");
+  print("amir");
+
+  
 
 }
